@@ -39,5 +39,3 @@ _Ez a szöveg dőlt_, __ez pedig félkövér__
 |Kis  |Annamária |sportoló  |
 
 
-
-
